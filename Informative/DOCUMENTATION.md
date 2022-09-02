@@ -21,6 +21,6 @@ The data is prepared in 4 or 5 stepts (depending if you count methods or not). T
 Step 1 - Retrieving the image as is:
 
 First of all, the image needs to be retrieved as it is uploaded by the user. This is simply done be looking for the first image in the designated folder. The image may look something like this:
-![](https://github.com/TobiasSpilker/Shape_AI/blob/main/Informative/Images/ExampleStep1.png "ExampleStep1")
+<img src "https://github.com/TobiasSpilker/Shape_AI/blob/main/Informative/Images/ExampleStep1.png" height="50" width="50" >
 
 -----------------------------------------------------------------------------------------------------------------------------------------
