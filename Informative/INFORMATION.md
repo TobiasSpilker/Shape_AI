@@ -39,6 +39,8 @@ https://www.youtube.com/watch?v=w8yWXqWQYmU&t=131s                              
 
 https://medium.com/geekculture/introduction-to-neural-network-2f8b8221fbd3				  (amount of hidden layers)
 
+https://towardsdatascience.com/building-a-neural-network-framework-in-c-16ef56ce1fef			  (step for step NN for c#)
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 
