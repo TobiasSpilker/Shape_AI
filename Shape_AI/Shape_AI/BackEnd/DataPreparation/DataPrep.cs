@@ -62,10 +62,6 @@ namespace Shape_AI
             //Takes the prefered Gamme and applies the passed down mutiplier:
             int GammeMultiplier = -5000000 * Gamma;
 
-            //NOTE: misschien kijken naar het totaal plaatje en daar kijken wat de gemiddelde gamma is
-            //en vervolgens hier op de helft gaan zitten (meest onderscheidend vermogen). Zo worden donkere
-            //plaatjes niet volledig zwart en visa versa
-
             //Stores the bitmap into an array, pixel by pixel
             for (int i = 0; i < UserImage.Width; i++)           //i = x coordinate
             {
