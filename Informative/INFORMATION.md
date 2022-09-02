@@ -37,6 +37,8 @@ https://www.youtube.com/watch?v=USjZcfj8yxE                                     
 
 https://www.youtube.com/watch?v=w8yWXqWQYmU&t=131s                                                        (almost one on one example on how to implement a NN)
 
+https://medium.com/geekculture/introduction-to-neural-network-2f8b8221fbd3				  (amount of hidden layers)
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 
