@@ -35,6 +35,8 @@ https://www.researchgate.net/post/Which_neural_network_architecture_is_applicabl
 
 https://www.youtube.com/watch?v=USjZcfj8yxE                                                               (how to use Git)
 
+https://www.youtube.com/watch?v=w8yWXqWQYmU&t=131s                                                        (almost one on one example on how to implement)
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 
