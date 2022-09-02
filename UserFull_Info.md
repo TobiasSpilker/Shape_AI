@@ -12,6 +12,7 @@ This is what needs to be finished (in very broad strokes):
 7. Fine tuning
 
 
+
 Tasks related to the consumer:
 
 1. Make sure the code is inaccesible (protect code?)
