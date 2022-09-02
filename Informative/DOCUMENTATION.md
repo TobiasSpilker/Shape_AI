@@ -40,4 +40,14 @@ Because the model is focused on efficiency, there is still some unnecessary data
 
 <img src="https://github.com/TobiasSpilker/Shape_AI/blob/main/Informative/Images/ExampleStep3.png" height="200" width="200" >
 
+<br/>
+
+**Step 4 and 5 - Translating the image to binary:**
+
+Lastly, the black and white image is given as input into these two methods. These will read the image from left to right (starting from the top, going to the bottom), and for every pixel, will store a 1 if the pixel is black and a 0 if the pixel is white. This information gets stored into a 2D array (step 4). Step 5 takes this array and changes this from in-memory to out-memory by writing this array into a text file. The text file may look like this:
+
+<img src="https://github.com/TobiasSpilker/Shape_AI/blob/main/Informative/Images/ExampleStep5.png" height="200" width="200">
+
+<br/>
+
 -----------------------------------------------------------------------------------------------------------------------------------------
