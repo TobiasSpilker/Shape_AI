@@ -7,3 +7,8 @@ https://www.youtube.com/watch?v=-zT1Zi_ukSk                                     
 https://www.youtube.com/watch?v=i6qL3NqFjs4                                                               (how to monotize on repo)
 
 https://www.researchgate.net/post/Which_neural_network_architecture_is_applicable_for_2d_spatial_data     (what neural network to use)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+test
