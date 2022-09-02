@@ -12,4 +12,5 @@ The data is prepared in 4 or 5 stepts (depending if you count methods or not). T
 
 
 Step 1 - Retrieving the image as is:
+
 blablabla
