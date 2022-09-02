@@ -7,7 +7,7 @@ namespace Shape_AI
 {
     internal class DataPrep
     {
-        public Bitmap Initializer(int Resolution = 200, int Gamma = 1)
+        public Bitmap Initializer(int Resolution = 100, int Gamma = 1)
         //Takes the first / only file in the UserInput directory and stores this in a bitmap
         {
             //1: Creates the filepath to the correct folder
