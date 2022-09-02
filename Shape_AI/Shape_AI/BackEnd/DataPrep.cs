@@ -11,7 +11,7 @@ namespace Shape_AI
         //Takes the first / only file in the UserInput directory and stores this in a bitmap
         {
             //1: Creates the filepath to the correct folder
-            string UserInputFilepath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\Shape_AI\Shape_AI\Data\UserInput\";
+            string UserInputFilepath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\Shape_AI\Shape_AI\Shape_AI\Data\UserInput\";
             
             //2: Creates an 1 item array,
             String[] SearchFile = new string[0];
@@ -128,7 +128,7 @@ namespace Shape_AI
         //Writes the 2D array to a textfile for retrieval later on
         {
             //Creates the streamwriter object and file directory
-            string UserDataArrayEncodedFilepath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\Shape_AI\Shape_AI\Data\EncodedData\EncodedData.txt";
+            string UserDataArrayEncodedFilepath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\Shape_AI\Shape_AI\Shape_AI\Data\EncodedData\EncodedData.txt";
             StreamWriter UserDataArrayEncoded = new StreamWriter(UserDataArrayEncodedFilepath);
 
             //Loops 2 dimensional through the array ands stores this in a text file:
