@@ -44,5 +44,7 @@ https://www.youtube.com/watch?v=w8yWXqWQYmU&t=131s                              
 
 https://github.com/Sergio0694/NeuralNetwork.NET                                                           (Neural network library for c#)
 
+https://www.kaggle.com/                                                                                   (Free to use datasets)
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
