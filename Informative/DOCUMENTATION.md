@@ -7,3 +7,9 @@ This is the documentation for Shape_AI. In short, Shape_AI is an image recogniti
 <br/>
 
 **DATA PREPERATION:**
+
+The data is prepared in 4 or 5 stepts (depending if you count methods or not). The input consists of an image of any kind, any size, any color. The type however, must be .png. The eventual output is a 2 dimensional array of 1's and 0's, how these are encoded will be explained below:
+
+
+Step 1 - Retrieving the image as is:
+blablabla
