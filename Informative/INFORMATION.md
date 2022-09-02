@@ -33,6 +33,7 @@ https://www.youtube.com/watch?v=i6qL3NqFjs4                                     
 
 https://www.researchgate.net/post/Which_neural_network_architecture_is_applicable_for_2d_spatial_data     (what neural network to use)
 
+https://www.youtube.com/watch?v=USjZcfj8yxE                                                               (how to use Git)
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
