@@ -26,10 +26,18 @@ First of all, the image needs to be retrieved as it is uploaded by the user. Thi
 
 <br/>
 
-Step 2 - Compressing the image:
+**Step 2 - Compressing the image:**
 
 Second, we want to compress an image, the reason being is that the quality of all the input varies. This is not acceptable for a neural network. Another reason is that we can still get all the relevant details even if the resolution is way smaller, for example 100px by 100px. Lastly, by lowering the resolution to a standard like 100px by 100px the speed of processing and training the model dramatically increases. Compression is done by mapping the existing bitmap onto a smaller one while utilizing several methods that keep the image details. After compression the example image will look like this:
 
 <img src="https://github.com/TobiasSpilker/Shape_AI/blob/main/Informative/Images/ExampleStep2.png" height="200" width="200" >
+
+<br/>
+
+**Step 3 - Contouring the compressed image:**
+
+Because the model is focused on efficiency, there is still some unnecessary data which need to be dealt with. This is color. Because the application is focused on image recognition we believe only outlines, contrast differences and shadows are relevant. This is where our 3th step comes in. This method will loop through every pixel of our already compressed image and will change the pixels to either: Completely black or completely white. It does this based on: The gamma given by the user and the average brightness of the picture (still in the works). After being processed the image will look like this:
+
+<img src="https://github.com/TobiasSpilker/Shape_AI/blob/main/Informative/Images/ExampleStep3.png" height="200" width="200" >
 
 -----------------------------------------------------------------------------------------------------------------------------------------
