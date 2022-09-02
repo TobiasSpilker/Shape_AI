@@ -11,7 +11,7 @@ This is what needs to be finished (in very broad strokes):
 6. Evaluate performance based on the test data
 7. Fine tuning
 
-
+<br/>
 
 Tasks related to the consumer:
 
