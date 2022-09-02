@@ -23,7 +23,7 @@ Tasks related to the consumer:
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 
-UseFull Links:
+**UseFull Links:**
 
 https://docs.microsoft.com/en-us/dotnet/api/system.drawing.bitmap.getpixel?view=dotnet-plat-ext-6.0       (for retrieving pixels from a bitmap)
 
