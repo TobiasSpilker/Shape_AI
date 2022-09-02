@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tobias\\Desktop\\Shape_AI\\Shape_AI\\Shape_AI.csproj",
+      "projectUniqueName": "C:\\Users\\Tobias\\Desktop\\Shape_AI\\Shape_AI\\Shape_AI\\Shape_AI.csproj",
       "projectName": "Shape_AI",
-      "projectPath": "C:\\Users\\Tobias\\Desktop\\Shape_AI\\Shape_AI\\Shape_AI.csproj",
+      "projectPath": "C:\\Users\\Tobias\\Desktop\\Shape_AI\\Shape_AI\\Shape_AI\\Shape_AI.csproj",
       "packagesPath": "C:\\Users\\Tobias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tobias\\Desktop\\Shape_AI\\Shape_AI\\obj\\",
+      "outputPath": "C:\\Users\\Tobias\\Desktop\\Shape_AI\\Shape_AI\\Shape_AI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tobias\\AppData\\Roaming\\NuGet\\NuGet.Config",

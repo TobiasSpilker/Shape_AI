@@ -261,3 +261,8 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+Shape_AI/Shape_AI/obj/Debug/net6.0-windows/Shape_AI.assets.cache
+Shape_AI/Shape_AI/obj/Debug/net6.0-windows/Shape_AI.GeneratedMSBuildEditorConfig.editorconfig
+Shape_AI/Shape_AI/obj/project.assets.json
+Shape_AI/Shape_AI/obj/project.nuget.cache
+Shape_AI/Shape_AI/obj/Shape_AI.csproj.nuget.dgspec.json
