@@ -1,0 +1,17 @@
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\bin\Debug\net6.0-windows\DEMO.exe
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\bin\Debug\net6.0-windows\DEMO.deps.json
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\bin\Debug\net6.0-windows\DEMO.runtimeconfig.json
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\bin\Debug\net6.0-windows\DEMO.dll
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\bin\Debug\net6.0-windows\DEMO.pdb
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\obj\Debug\net6.0-windows\DEMO.csproj.AssemblyReference.cache
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\obj\Debug\net6.0-windows\Shape_AI.Form1.resources
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\obj\Debug\net6.0-windows\DEMO.csproj.GenerateResource.cache
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\obj\Debug\net6.0-windows\DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\obj\Debug\net6.0-windows\DEMO.AssemblyInfoInputs.cache
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\obj\Debug\net6.0-windows\DEMO.AssemblyInfo.cs
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\obj\Debug\net6.0-windows\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\obj\Debug\net6.0-windows\DEMO.dll
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\obj\Debug\net6.0-windows\refint\DEMO.dll
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\obj\Debug\net6.0-windows\DEMO.pdb
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\obj\Debug\net6.0-windows\DEMO.genruntimeconfig.cache
+C:\Users\Tobias\Desktop\DEMO\Shape_AI\obj\Debug\net6.0-windows\ref\DEMO.dll
