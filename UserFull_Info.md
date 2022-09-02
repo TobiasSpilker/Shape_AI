@@ -3,7 +3,6 @@
 
 This is what needs to be finished (in very broad strokes):
 
-
 1. Finish the DataPrep completely (the contour maker should be updated) --> See in-program notes (NOTE)
 2. Find the correct neural network to use for binary, 2 dimensional data
 3. Make the output data from the DataPrep class fit the neural network
@@ -12,6 +11,12 @@ This is what needs to be finished (in very broad strokes):
 6. Evaluate performance based on the test data
 7. Fine tuning
 
+
+Tasks related to the consumer:
+
+1. Make sure the code is inaccesible (protect code?)
+2. Make a nice demo
+3. Make a userinterface where the user can upload an image and gets the final output
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
