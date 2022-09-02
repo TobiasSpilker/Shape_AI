@@ -47,6 +47,5 @@ Lastly, the black and white image is given as input into these two methods. Thes
 
 <img src="https://github.com/TobiasSpilker/Shape_AI/blob/main/Informative/Images/ExampleStep5.png" height="200" width="200">
 
-<br/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------
