@@ -4,7 +4,7 @@
 **This is what needs to be finished (in very broad strokes):**
 
 1. Finish the DataPrep completely (the contour maker should be updated) --> See in-program notes (NOTE)
-2. Find the correct neural network to use for binary, 2 dimensional data
+2. Find the correct neural network to use for binary data
 3. Design and program this neural network
 4. Make the output data from the DataPrep class fit the neural network
 5. Find Labeled images as training / test data
