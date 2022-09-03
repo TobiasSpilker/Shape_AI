@@ -52,5 +52,7 @@ https://github.com/trentsartain/Neural-Network                                  
 
 https://www.kaggle.com/                                                                                   (Free to use datasets)
 
+https://www.kaggle.com/datasets/google/tinyquickdraw?resource=download                                    (The dataset we use)
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
